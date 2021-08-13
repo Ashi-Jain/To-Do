@@ -1,0 +1,105 @@
+body {
+    background-image: url("https://www.innovasolutions.com/wp-content/uploads/2020/06/blue-gradient-background-1.png");
+}
+h1 {
+    text-align: center;
+}
+#contain {
+    width: 500px;
+    margin-left: 250px;
+}
+#form {
+    width: 500px;
+    margin-left: 290px;
+}
+#dueDate {
+    border: 1px solid black;
+    text-align: center;
+    height: 80px;
+    /* background-color: white; */
+}
+#category {
+    border: 1px solid black;
+    text-align: center;
+    
+    height: 80px;
+    /* background-color: white; */
+}
+.row {
+    background-color: white;
+}
+#button {
+    margin-left: 200px;
+    background-color: greenyellow;
+}
+#description {
+    height: 60px;
+}
+li {
+    list-style: none;
+}
+#dp {
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid black;
+    background-color: rgb(26, 165, 245);
+    color: white;
+}
+#cp {
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 30px;
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+}
+#datep {
+    margin-left: 80px;
+    text-decoration: underline grey;
+}
+#hr {
+    width: 1083px;
+    margin-left: 115px;
+}
+#contain {
+    border: 1px solid black;
+}
+#span1 {
+    text-transform: uppercase;
+    padding-right: 500px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+}
+#span2 {
+    padding-right: 30px;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(26, 165, 245);
+}
+h2 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#span3 {
+    
+    text-transform: uppercase; 
+    /* padding-right: 430px; */
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+}
+.delete-button {
+    margin-left: 40px;
+}
+.link {
+    text-transform: capitalize;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 40px;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#button {
+    text-transform: uppercase;
+    border: 4px solid black;
+}
